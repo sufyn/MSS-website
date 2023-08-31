@@ -155,7 +155,7 @@ function About() {
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.208.jpg"
+                      src="images\avatar\eloogo.jpg"
                       class="avatar-image img-fluid"
                     />
 
