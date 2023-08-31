@@ -6,7 +6,8 @@ function Home() {
         <main/>
 
 <section class="hero-section hero-section-full-height d-flex justify-content-center align-items-center">
-    <div class="section-overlay"></div>
+    <div class="section-overlay"><img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
+</div>
 
     <div class="container">
         <div class="row">
