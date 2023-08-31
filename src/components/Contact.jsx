@@ -59,7 +59,7 @@ function Contact() {
                         <i class="bi-envelope-fill custom-icon me-3"></i>
 
                         <a href="mailto:info@company.com">
-                            ecell@gmail.com
+                            mss@gmail.com
                         </a>
                     </h5>
                 </div>
@@ -74,7 +74,7 @@ function Contact() {
                     <div class="consulting-form-body">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
-                                <input type="text" name="volunteer-name" id="volunteer-name" class="form-control" placeholder="John Walker" required/>
+                                <input type="text" name="volunteer-name" id="volunteer-name" class="form-control" placeholder="Name" required/>
                             </div>
 
                             <div class="col-lg-6 col-md-6 col-12">
@@ -83,11 +83,11 @@ function Contact() {
                         </div>
 
                         <select class="form-select form-control" name="job-salary" id="job-salary" aria-label="Default select example">
-                            <option selected>Service Type</option>
-                            <option value="1">Incubation</option>
-                            <option value="2">Entrepreneurship</option>
-                            <option value="2">Business Plan</option>
-                            <option value="2">E-Skills</option>
+                            <option selected>Area Of Your Interest</option>
+                            <option value="1">Machine Learning</option>
+                            <option value="2">Deep Learning</option>
+                            <option value="2">Computer Vision</option>
+                            <option value="2">Web Development</option>
                         </select>
 
                         <textarea name="volunteer-message" rows="3" class="form-control" id="volunteer-message" placeholder="Comment (Optional)"></textarea>
