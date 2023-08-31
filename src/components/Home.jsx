@@ -51,7 +51,7 @@ function Home() {
         <div class="row justify-content-lg-center align-items-center">
 
             <div class="col-lg-6 col-12">
-                <h2 class="mb-4">Create <br/> Innovate &amp; Inspire</h2>
+                <h2 class="mb-4">Invent <br/> Innovate &amp; Inspire</h2>
                 <p>
                 The <strong>Microsoft Student Society</strong> is a place where students can unite, build, and grow. This Society serves as a platform for the students to build their network and enhance their technical skills by utilizing all the latest technologies that <strong>Microsoft Company</strong> and <strong>Student Chapter at MJCET</strong> has to offer.
 All of our members get brilliant exposure as part of our effort to help them advance in their areas of expertise. The <strong>MSS</strong> offers a well-established network that has made interaction amongst various Microsoft groups possible in order to do this.
