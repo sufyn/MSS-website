@@ -310,7 +310,7 @@ We believe in advancing together rather than individually.
                 <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images/avatar/eloogo.png"
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.200.jpg"
                       class="avatar-image img-fluid"
                     />
 
@@ -350,7 +350,7 @@ We believe in advancing together rather than individually.
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images/avatar/eloogo.png"
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.46.05.jpg"
                       class="avatar-image img-fluid"
                     />
 
