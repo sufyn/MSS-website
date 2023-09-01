@@ -6,7 +6,8 @@ function Home() {
         <main/>
 
 <section class="hero-section hero-section-full-height d-flex justify-content-center align-items-center">
-    <div class="section-overlay"><img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
+    <div class="section-overlay">
+    {/* <img src="images/slideshow/eban3.jpg" alt=""/> */}
 </div>
 
     <div class="container">
@@ -17,8 +18,8 @@ function Home() {
                     <span>We help to </span>
                     <span class="cd-words-wrapper">
                         <b class="is-visible">Invent</b>
-                        <b>Innovate</b>
-                        <b>Inspire</b>
+                        <b >Innovate</b>
+                        <b >Inspire</b>
                     </span>
                 </h1>
 
@@ -96,7 +97,7 @@ We believe in advancing together rather than individually.
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="services-image-wrap">
                                 <a href="services-detail.html">
-                                <img src="images/avatar/imaginehack.png" className="services-image img-fluid" alt="" style={{ maxWidth: '100%' }} />
+                                <img src="images/services/byteofc.jpg" className="services-image img-fluid" alt="" style={{ maxWidth: '100%' }} />
 
                                     <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
 
@@ -107,10 +108,10 @@ We believe in advancing together rather than individually.
                         <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                             <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                 <h4 class="services-title mb-1 mb-lg-2">
-                                    <a class="services-title-link" href="services-detail.html">Imagine Hack</a>
+                                    <a class="services-title-link" href="services-detail.html">Big Byte Of C</a>
                                 </h4>
 
-                                <p>Hackathon Lorem ipsum dolor sit amet consectetur adipisicing elit. ametr lorem</p>
+                                <p>Big byte of c Lorem ipsum dolor sit amet consectetur adipisicing elit. ametr lorem</p>
 
                                 <div class="d-flex flex-wrap align-items-center">
                                     <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
@@ -138,8 +139,8 @@ We believe in advancing together rather than individually.
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="services-image-wrap">
                                 <a href="services-detail.html">
-                                    <img src="images/avatar/eloogo.png" class="services-image img-fluid" alt=""/>
-                                    <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
+                                    <img src="images/services/msslearn.jpg" class="services-image img-fluid" alt=""/>
+                                    <img src="images/services/msslearn1.jpg" class="services-image services-image-hover img-fluid" alt=""/>
 
                                 </a>
                             </div>
@@ -277,7 +278,7 @@ We believe in advancing together rather than individually.
               <div class="col-lg-4 col-12">
                 <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img src="" class="avatar-image img-fluid" />
+                    <img src="images\avatar\WhatsApp Image 2023-08-31 at 23.23.59.jpg" class="avatar-image img-fluid" />
 
                     <div class="ms-3">
                       <h4 class="mb-0">RANIYA FARHAN SHEIKH</h4>
@@ -292,7 +293,7 @@ We believe in advancing together rather than individually.
 
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
-                    <img src="" class="avatar-image img-fluid" />
+                    <img src="images\avatar\WhatsApp Image 2023-08-31 at 23.24.00.jpg" class="avatar-image img-fluid" />
 
                     <div class="ms-3">
                       <h4 class="mb-0">UMAIMA KHAN</h4>

@@ -18,6 +18,7 @@ ReactDOM.render(
       <Route path="/" element={<Home />} />
       <Route path="/About" element={<About />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/soon" element={<Soon />} />
       {/* <Route path="/Pages" element={<Pages />}> */}
         {/* <Route path="" element={<Soon />} /> */}
       {/* </Route> */}

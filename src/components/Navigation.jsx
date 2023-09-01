@@ -65,14 +65,17 @@ function Navigation() {
                 <NavLink className="nav-link" to="/pages">
                     <a class="nav-link dropdown-toggle" href="#section_5" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pages</a>
                 </NavLink>
-                    {/* <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                        <li>
-                            <a class="dropdown-item" href="services.html">Our Services</a></li>
+                    { <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
+                        <li >
+                        <NavLink  to="/soon">
+                            <a class="dropdown-item" href="services.html">Our Services</a></NavLink></li>
+                        
+                        <li><NavLink  to="/soon">
+                            <a class="dropdown-item" href="coming-soon.html">Coming Soon</a></NavLink></li>
 
-                        <li><a class="dropdown-item" href="coming-soon.html">Coming Soon</a></li>
-
-                        <li><a class="dropdown-item" href="page-404.html">Page 404</a></li>
-                    </ul> */}
+                        <li><NavLink  to="/soon">
+                            <a class="dropdown-item" href="page-404.html">Page 404</a></NavLink></li>
+                    </ul> }
                 </li>
 
                 <li class="nav-item">

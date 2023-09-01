@@ -23,7 +23,7 @@
 			
 			if(eventDate <= currentDate) {
 				callback.call(this);
-				clearInterval(interval);
+				clearInterval();
 			}
 			
 			seconds = eventDate - currentDate;
@@ -59,7 +59,7 @@
 				thisEl.find(".seconds").text(seconds);
 			} else { 
 				alert("Invalid date. Here's an example: 12 Tuesday 2012 17:30:00");
-				clearInterval(interval); 
+				clearInterval(); 
 			}
 		}
 		
