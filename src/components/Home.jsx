@@ -331,7 +331,7 @@ We believe in advancing together rather than individually.
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images/avatar/eloogo.jpg"
+                      src="images/avatar/futuristic.png"
                       class="avatar-image img-fluid"
                     />
 
