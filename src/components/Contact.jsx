@@ -37,7 +37,7 @@ function Contact() {
             <div class="col-lg-5 col-12 me-auto mb-lg-0 mb-5">
                 <h2 class="my-3">We're happy to help</h2>
 
-                <p>    The Mission of the student club is to foster entrepreneurial thinking, promote business knowledge and inculcate confidence in every student.</p>
+                <p>    The Mission of the student club is to foster technical thinking, promote knowledge sharing and inculcate confidence in every student.</p>
 
                 <div class="contact-info bg-white shadow-lg">
                     <h3 class="mb-4">Contact Information</h3>
