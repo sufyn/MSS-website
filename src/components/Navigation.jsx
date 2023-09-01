@@ -23,7 +23,7 @@ function Navigation() {
                     <i class="bi-envelope-fill me-2"></i>
 
                     <a href="mailto:info@company.com" class="site-footer-link">
-                        mss@gmail.com
+                    mss@mjcollege.ac.in
                     </a>
                 </p>
                 <p class="text-white d-flex">

@@ -59,7 +59,7 @@ function Contact() {
                         <i class="bi-envelope-fill custom-icon me-3"></i>
 
                         <a href="mailto:info@company.com">
-                            mss@gmail.com
+                        mss@mjcollege.ac.in
                         </a>
                     </h5>
                 </div>

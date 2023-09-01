@@ -72,7 +72,7 @@ We believe in advancing together rather than individually.
                         <i class="bi-envelope-fill me-2"></i>
 
                 <a href="mailto:info@company.com" class="site-footer-link">
-                    MSS@gmail.com
+                mss@mjcollege.ac.in
                 </a>
                     </p>
                 </div>
