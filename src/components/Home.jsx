@@ -351,7 +351,7 @@ function Home() {
 
                                     <div class="ms-3">
                                         <h4 class="mb-0">NABAHAT INJELA</h4>
-                                        <h5 class="mb-0">Chief Representative</h5>
+                                        <h5 class="mb-0">Chief Representative </h5>
                                     </div>
                                 </div>
 
