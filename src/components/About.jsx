@@ -65,7 +65,7 @@ function About() {
                   </p>
                   <a
                     class="custom-btn btn button button--atlas mt-3"
-                    href="contact.html"
+                    href="https://www.instagram.com/mssmjcet/"
                   >
                     <span>Get in touch</span>
 

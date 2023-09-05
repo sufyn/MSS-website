@@ -102,7 +102,7 @@ function Home() {
                                 <div class="row">
                                     <div class="col-lg-5 col-md-5 col-12">
                                         <div class="services-image-wrap">
-                                            <a href="services-detail.html">
+                                            <a href="https://www.instagram.com/mssmjcet/">
                                                 <img src="images/services/byteofc.jpg" className="services-image img-fluid" alt="" style={{ maxWidth: '100%' }} />
 
                                                 <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt="" />
@@ -114,7 +114,7 @@ function Home() {
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">Big Byte Of C</a>
+                                                <a class="services-title-link" href="https://www.instagram.com/mssmjcet/">Big Byte Of C</a>
                                             </h4>
 
                                             <p> “A Big Byte of C” — the perfect event to kickstart your journey in programming.
@@ -122,7 +122,7 @@ function Home() {
                                             </p>
 
                                             <div class="d-flex flex-wrap align-items-center">
-                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                <a href="https://www.instagram.com/mssmjcet/" class="custom-btn btn button button--atlas mt-2 ms-auto">
                                                     <span>Learn More</span>
 
                                                     <div class="marquee" aria-hidden="true">
@@ -146,7 +146,7 @@ function Home() {
                                 <div class="row">
                                     <div class="col-lg-5 col-md-5 col-12">
                                         <div class="services-image-wrap">
-                                            <a href="services-detail.html">
+                                            <a href="https://www.instagram.com/mssmjcet/">
                                                 <img src="images/services/runtime2.jpg" class="services-image img-fluid" alt="" />
                                                 <img src="images/services/runtime.jpg" class="services-image services-image-hover img-fluid" alt="" />
 
@@ -157,7 +157,7 @@ function Home() {
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">RunTime Error</a>
+                                                <a class="services-title-link" href="https://www.instagram.com/mssmjcet/">RunTime Error</a>
                                             </h4>
 
                                             <p>We aim to brush up and hone your knowledge of programming languages, debugging and logic building.
@@ -166,7 +166,7 @@ function Home() {
 
                                             <div class="d-flex flex-wrap align-items-center">
 
-                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                <a href="https://www.instagram.com/mssmjcet/" class="custom-btn btn button button--atlas mt-2 ms-auto">
                                                     <span>Learn More</span>
 
                                                     <div class="marquee" aria-hidden="true">
@@ -190,7 +190,7 @@ function Home() {
                                 <div class="row">
                                     <div class="col-lg-5 col-md-5 col-12">
                                         <div class="services-image-wrap">
-                                            <a href="services-detail.html">
+                                            <a href="https://www.instagram.com/mssmjcet/">
                                                 <img src="images/services/msslearn.jpg" class="services-image img-fluid" alt="" />
                                                 <img src="images/services/msslearn1.jpg" class="services-image services-image-hover img-fluid" alt="" />
 
@@ -202,7 +202,7 @@ function Home() {
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">MSS Learn</a>
+                                                <a class="services-title-link" href="https://www.instagram.com/mssmjcet/">MSS Learn</a>
                                             </h4>
 
                                             <p>MSS Learn What next?
@@ -210,7 +210,7 @@ function Home() {
                                                 MSS has all the information in store for you.</p>
 
                                             <div class="d-flex flex-wrap align-items-center">
-                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                <a href="https://www.instagram.com/mssmjcet/" class="custom-btn btn button button--atlas mt-2 ms-auto">
                                                     <span>Learn More</span>
 
                                                     <div class="marquee" aria-hidden="true">
@@ -234,7 +234,7 @@ function Home() {
                                 <div class="row">
                                     <div class="col-lg-5 col-md-5 col-12">
                                         <div class="services-image-wrap">
-                                            <a href="services-detail.html">
+                                            <a href="https://www.instagram.com/mssmjcet/">
                                                 <img src="images/services/imaginhack2.jpg" class="services-image img-fluid" alt="" />
                                                 <img src="images/services/imagine hack.jpg" class="services-image services-image-hover img-fluid" alt="" />
 
@@ -246,7 +246,7 @@ function Home() {
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">Imagine Hack</a>
+                                                <a class="services-title-link" href="https://www.instagram.com/mssmjcet/">Imagine Hack</a>
                                             </h4>
 
                                             <p>Imagine Hack: A 12-hr 2-days Hackthon brought to you by MSS MJCET</p>
@@ -254,7 +254,7 @@ function Home() {
                                             <div class="d-flex flex-wrap align-items-center">
 
 
-                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                <a href="https://www.instagram.com/mssmjcet/" class="custom-btn btn button button--atlas mt-2 ms-auto">
                                                     <span>Learn More</span>
 
                                                     <div class="marquee" aria-hidden="true">
@@ -292,7 +292,12 @@ function Home() {
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="images\avatar\WhatsApp Image 2023-08-31 at 23.23.59.jpg" 
                                     style= {{width: '120px', height:'120px'}} class="avatar-image img-fluid" />
-
+                            <li class="social-icon-item">
+                                <a href="https://www.linkedin.com/in/ACoAADco6tcB5v4BraB2XA_Izm_ZbVfxRF9LjFg?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B7MFcX8jpToWOkVMZMPAvfw%3D%3D" class="social-icon-link button button--skoll">
+                                    <span></span>
+                                    <span class="bi-linkedin"></span>
+                                </a>
+                            </li>
                                     <div class="ms-3">
                                         <h4 class="mb-0">RANIYA FARHAN SHEIKH</h4>
                                         <h5 class="mb-0">Chief Coordinator</h5>
@@ -302,12 +307,19 @@ function Home() {
                                 <p class="mb-0">
                                     Best lorem epsom Provider Ipsum dolor sit consectetur kengan
                                 </p>
+                                
                             </div>
 
                             <div class="featured-block mb-lg-0">
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="images\avatar\WhatsApp Image 2023-08-31 at 23.24.00.jpg" 
                                     style= {{width: '120px', height:'120px'}} class="avatar-image img-fluid" />
+                                    <li class="social-icon-item">
+                                <a href="https://www.linkedin.com/in/ACoAADuZoLsBVZDhWrpkS24F4CMKDs7UNYAl-GY?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B7MFcX8jpToWOkVMZMPAvfw%3D%3D" class="social-icon-link button button--skoll">
+                                    <span></span>
+                                    <span class="bi-linkedin"></span>
+                                </a>
+                            </li>
 
                                     <div class="ms-3">
                                         <h4 class="mb-0">UMAIMA KHAN</h4>
@@ -325,10 +337,17 @@ function Home() {
                         <div class="col-lg-4 col-12">
                             <div class="featured-block">
                                 <div class="d-flex align-items-center mb-3">
+                            
                                     <img
                                         src="images\avatar\WhatsApp Image 2023-08-31 at 23.200.jpg"
-                                        class="avatar-image img-fluid" style= {{width: '120px', height:'120px'}}
+                                        class="avatar-image img-fluid" style= {{width: '80px', height:'80px'}}
                                     />
+                            <li class="social-icon-item">
+                                <a href="https://www.linkedin.com/in/ACoAAEJaDykBZArFjQK5laI1CE0DhawtQ9fxyAM?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B7MFcX8jpToWOkVMZMPAvfw%3D%3D" class="social-icon-link button button--skoll">
+                                    <span></span>
+                                    <span class="bi-linkedin"></span>
+                                </a>
+                            </li>                            
 
                                     <div class="ms-3">
                                         <h4 class="mb-0">NABAHAT INJELA</h4>
@@ -340,6 +359,7 @@ function Home() {
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                                     do eiusmod tempor incididunt ut labore et dolore.
                                 </p>
+
                             </div>
 
                             <div class="featured-block mb-lg-0">
@@ -348,6 +368,12 @@ function Home() {
                                         src="images/avatar/futuristic.png"
                                         class="avatar-image img-fluid" style= {{width: '120px', height:'120px'}}
                                     />
+                                    <li class="social-icon-item">
+                                <a href="https://www.linkedin.com/in/mohd-sufyaan-talish/" class="social-icon-link button button--skoll">
+                                    <span></span>
+                                    <span class="bi-linkedin"></span>
+                                </a>
+                            </li>
 
                                     <div class="ms-3">
                                         <h4 class="mb-0">MOHAMMED SUFYAAN TALISH</h4>
@@ -369,6 +395,12 @@ function Home() {
                                         src="images\avatar\WhatsApp Image 2023-08-31 at 23.46.05.jpg"
                                         class="avatar-image img-fluid" style= {{width: '120px', height:'120px'}}
                                     />
+                                    <li class="social-icon-item">
+                                <a href="https://www.linkedin.com/in/ACoAADN3UoEB3w9O9M6Ai0m6LOGrEp_PDJaZjA4?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BTBl61Yc1SYariZr60EZVzg%3D%3D" class="social-icon-link button button--skoll">
+                                    <span></span>
+                                    <span class="bi-linkedin"></span>
+                                </a>
+                            </li>
 
                                     <div class="ms-3">
                                         <h4 class="mb-0">NADIA AREF</h4>

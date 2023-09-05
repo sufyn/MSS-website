@@ -47,19 +47,21 @@ function Contact() {
                         8-2-249 TO 267, ROAD NO. 3, BANJARA HILLS, Hyderabad, 500034, IN, Hyderabad, Telangana 500034, IN
                     </h5>
 
-                    {/* <h5 class="d-flex mb-3">
-                        <i class="bi-telephone-fill custom-icon me-3"></i>
-
-                        <a href="tel: 110-220-9800">
-                            110-220-9800
-                        </a>
-                    </h5> */}
 
                     <h5 class="d-flex">
                         <i class="bi-envelope-fill custom-icon me-3"></i>
 
                         <a href="mailto:info@company.com">
                         mss@mjcollege.ac.in
+                        </a>
+                    </h5>
+
+
+                    <h5 class="d-flex mb-3">
+                        <i class="bi-instagram custom-icon me-3"></i>
+
+                        <a href="https://www.instagram.com/mssmjcet/">
+                            mssmjcet
                         </a>
                     </h5>
                 </div>

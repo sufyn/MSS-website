@@ -37,7 +37,7 @@ function Navigation() {
 
 <nav class="navbar navbar-expand-lg">
     <div class="container">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="/">
             <img src="images/avatar/eloogo.png" class="logo img-fluid" alt="" />
 
             <span class="ms-2">MSS Mjcet</span>
@@ -87,7 +87,7 @@ function Navigation() {
                 <li class="nav-item ms-3">
                 <NavLink className="nav-link" to="/started">
 
-                    <a class="nav-link custom-btn custom-border-btn custom-btn-bg-white btn" href="#">Get started</a>
+                    <a class="nav-link custom-btn custom-border-btn custom-btn-bg-white btn" href="https://www.instagram.com/mssmjcet">Get started</a>
                 </NavLink>
                 </li>
             </ul>

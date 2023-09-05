@@ -14,13 +14,13 @@ function Footer() {
                         </div>
 
                         <ul class="footer-menu d-flex flex-wrap ms-5">
-                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">About Us</a></li>
+                            <li class="footer-menu-item"><a href="/about" class="footer-menu-link">About Us</a></li>
 
-                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">Blog</a></li>
+                            <li class="footer-menu-item"><a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">Blog</a></li>
 
-                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">Reviews</a></li>
+                            <li class="footer-menu-item"><a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">Reviews</a></li>
 
-                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">Contact</a></li>
+                            <li class="footer-menu-item"><a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">Contact</a></li>
                         </ul>
                     </div>
 
@@ -29,35 +29,35 @@ function Footer() {
 
                         <ul class="footer-menu">
                             <li class="footer-menu-item">
-                                <a href="#" class="footer-menu-link">
+                                <a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
                                     AI/ML
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
-                                <a href="#" class="footer-menu-link">
+                                <a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
                                     Web Dev
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
-                                <a href="#" class="footer-menu-link">
+                                <a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
                                     App Dev
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
-                                <a href="#" class="footer-menu-link">
+                                <a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
                                     UI/UX
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
-                                <a href="#" class="footer-menu-link">
+                                <a href="https://www.instagram.com/mssmjcet" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
                                     Cloud
                                 </a>
@@ -92,23 +92,30 @@ function Footer() {
 
                         <ul class="social-icon mt-4">
                             <li class="social-icon-item">
-                                <a href="" class="social-icon-link button button--skoll">
+                                <a href="https://twitter.com/mssmjcet?lang=en" class="social-icon-link button button--skoll">
                                     <span></span>
                                     <span class="bi-twitter"></span>
                                 </a>
                             </li>
 
                             <li class="social-icon-item">
-                                <a href="" class="social-icon-link button button--skoll">
+                                <a href="https://www.facebook.com/MicrosoftStudentSociety/" class="social-icon-link button button--skoll">
                                     <span></span>
                                     <span class="bi-facebook"></span>
                                 </a>
                             </li>
 
                             <li class="social-icon-item">
-                                <a href="" class="social-icon-link button button--skoll">
+                                <a href="https://www.instagram.com/mssmjcet" class="social-icon-link button button--skoll">
                                     <span></span>
                                     <span class="bi-instagram"></span>
+                                </a>
+                            </li>
+                            
+                            <li class="social-icon-item">
+                                <a href="https://in.linkedin.com/company/microsoft-student-society" class="social-icon-link button button--skoll">
+                                    <span></span>
+                                    <span class="bi-linkedin"></span>
                                 </a>
                             </li>
                         </ul>
