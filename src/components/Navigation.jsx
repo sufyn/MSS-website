@@ -14,10 +14,10 @@ function Navigation() {
                     One-Stop Tech
                 </p>
 
-                <p class="d-flex d-lg-block d-md-block d-none me-4 mb-0">
+                {/* <p class="d-flex d-lg-block d-md-block d-none me-4 mb-0">
                     <i class="bi-clock-fill me-2"></i>
                     <strong class="me-2">Mon - Fri</strong> 8:00 AM - 5:30 PM
-                </p>
+                </p> */}
 
                 <p class="site-header-icon-wrap text-white d-flex mb-0 ms-auto">
                     <i class="bi-envelope-fill me-2"></i>
@@ -67,14 +67,14 @@ function Navigation() {
                 </NavLink>
                     { <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
                         <li >
-                        <NavLink  to="/soon">
-                            <a class="dropdown-item" href="services.html">Our Services</a></NavLink></li>
+                        <NavLink  to="/Notes">
+                            <a class="dropdown-item" href="notes.html">Notes</a></NavLink></li>
                         
                         <li><NavLink  to="/soon">
                             <a class="dropdown-item" href="coming-soon.html">Coming Soon</a></NavLink></li>
 
-                        <li><NavLink  to="/soon">
-                            <a class="dropdown-item" href="page-404.html">Page 404</a></NavLink></li>
+                        {/* <li><NavLink  to="/soon">
+                            <a class="dropdown-item" href="page-404.html">Page 404</a></NavLink></li> */}
                     </ul> }
                 </li>
 

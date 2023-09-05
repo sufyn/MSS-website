@@ -83,7 +83,46 @@ function About() {
             </div>
           </div>
         </section>
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
 
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h2 class="text-white mb-4">Our Faculty Coordinator</h2>
+              </div>
+
+              <div class="d-flex align-items-center ">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <img
+                      src="images\avatar\faculty.jpg"
+                      class="avatar-image img-fluid" style= {{width: '120px', height:'120px'}}
+                    />
+
+                    <div class="ms-3">
+                      <h4 class="mb-0">Ahmed</h4>
+                      <h5 class="mb-0">Assistant Professor</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                  Qualification: B.E., M.Tech. 
+                  Experience 10 years. <br></br>
+Area of Expertise- Computer Science and Engineering. <br/>
+Research Interest- Artificial Intelligence, Algorithms, Soft Computing<br></br>
+E-mail: ahmed@mjcollege.ac.in <br></br>
+Phone: 9849524750
+                  </p>
+                </div>
+
+
+              </div>
+
+
+            </div>
+          </div>
+        </section>
         <section class="testimonial-section section-padding section-bg">
           <div class="section-overlay"></div>
 

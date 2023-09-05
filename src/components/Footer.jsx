@@ -66,7 +66,7 @@ function Footer() {
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0 mb-md-0">
-                        <h5 class="site-footer-title mb-3">Office</h5>
+                        <h5 class="site-footer-title mb-3">College</h5>
 
                         <p class="text-white d-flex mt-3 mb-2">
                             <i class="bi-geo-alt-fill me-2"></i>
@@ -74,13 +74,13 @@ function Footer() {
 
                         </p>
 
-                        <p class="text-white d-flex mb-2">
+                        {/* <p class="text-white d-flex mb-2">
                             <i class="bi-telephone-fill me-2"></i>
 
                             <a href="tel: 110-220-9800" class="site-footer-link">
                                 110-220-9800
                             </a>
-                        </p>
+                        </p> */}
 
                         <p class="text-white d-flex">
                             <i class="bi-envelope-fill me-2"></i>
@@ -116,15 +116,15 @@ function Footer() {
 
                     <div class="col-lg-3 col-md-6 col-6 mt-3 mt-lg-0 mt-md-0">
                         <div class="featured-block">
-                            <h5 class="text-white mb-3">Working Hours</h5>
+                            <h5 class="text-white mb-3">Our Motto</h5>
 
-                            <strong class="d-block text-white mb-1">Mon - Fri</strong>
-
+                            <strong class="d-block text-white mb-1">Invent. Innovate. Insipre</strong>
+{/* 
                             <p class="text-white mb-3">8:00 AM - 5:30 PM</p>
 
                             <strong class="d-block text-white mb-1">Sat</strong>
 
-                            <p class="text-white mb-0">6:00 AM - 2:30 PM</p>
+                            <p class="text-white mb-0">6:00 AM - 2:30 PM</p> */}
                         </div>
                     </div>
                 </div>

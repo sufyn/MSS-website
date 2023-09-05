@@ -4,3 +4,4 @@ export { default as Home } from "./Home";
 export { default as About } from "./About";
 export { default as Contact } from "./Contact";
 export { default as Soon } from "./Soon";
+export { default as Notes } from "./Notes";
